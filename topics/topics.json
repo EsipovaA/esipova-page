@@ -1,13 +1,43 @@
 [
     {
         "id": 1,
-        "title": "UML Use Case",
+        "title": "Разметка личной страницы, разработка UML Use Case",
         "description": "Диаграмма прецедента",
         "preview": "img/use-case-diagram.png"
     },
     {
         "id": 2,
-        "title": "UML Class",
+        "title": "Заполнение личной страницы, разработка UML Class",
+        "description": "Диаграмма классов",
+        "preview": "img/class-diagram.png"
+    },
+    {
+        "id": 3,
+        "title": "Реализация мини-приложения SPA, разработка UML Sequence",
+        "description": "Диаграмма классов",
+        "preview": "img/class-diagram.png"
+    },
+    {
+        "id": 4,
+        "title": "Реализация приложения на Angular 7, разработка UML Component",
+        "description": "Диаграмма классов",
+        "preview": "img/class-diagram.png"
+    },
+    {
+        "id": 5,
+        "title": "Разработка алгоритма и описания процедуры в выбранном проекте",
+        "description": "Диаграмма классов",
+        "preview": "img/class-diagram.png"
+    },
+    {
+        "id": 6,
+        "title": "Разработка процедуры на JS в выбранном проекте",
+        "description": "Диаграмма классов",
+        "preview": "img/class-diagram.png"
+    },
+    {
+        "id": 7,
+        "title": "Разработка unit-теста процедуры в выбранном проекте",
         "description": "Диаграмма классов",
         "preview": "img/class-diagram.png"
     }
