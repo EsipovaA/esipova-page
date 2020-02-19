@@ -1,44 +1,44 @@
 [
     {
         "id": 1,
-        "title": "Разметка личной страницы, разработка UML Use Case",
-        "description": "Диаграмма прецедента",
+        "title": "Лабораторная 1",
+        "description": "Разметка личной страницы, разработка UML Use Case",
         "preview": "img/use-case-diagram.png"
     },
     {
         "id": 2,
-        "title": "Заполнение личной страницы, разработка UML Class",
-        "description": "Диаграмма классов",
+        "title": "Лабораторная 2",
+        "description": "Заполнение личной страницы, разработка UML Class",
         "preview": "img/class-diagram.png"
     },
     {
         "id": 3,
-        "title": "Реализация мини-приложения SPA, разработка UML Sequence",
-        "description": "Диаграмма классов",
+        "title": "Лабораторная 3",
+        "description": "Реализация мини-приложения SPA, разработка UML Sequence",
         "preview": "img/class-diagram.png"
     },
     {
         "id": 4,
-        "title": "Реализация приложения на Angular 7, разработка UML Component",
-        "description": "Диаграмма классов",
+        "title": "Лабораторная 4",
+        "description": "Реализация приложения на Angular 7, разработка UML Component",
         "preview": "img/class-diagram.png"
     },
     {
         "id": 5,
-        "title": "Разработка алгоритма и описания процедуры в выбранном проекте",
-        "description": "Диаграмма классов",
+        "title": "Лабораторная 5",
+        "description": "Разработка алгоритма и описания процедуры в выбранном проекте",
         "preview": "img/class-diagram.png"
     },
     {
         "id": 6,
-        "title": "Разработка процедуры на JS в выбранном проекте",
-        "description": "Диаграмма классов",
+        "title": "Лабораторная 6",
+        "description": "Разработка процедуры на JS в выбранном проекте",
         "preview": "img/class-diagram.png"
     },
     {
         "id": 7,
-        "title": "Разработка unit-теста процедуры в выбранном проекте",
-        "description": "Диаграмма классов",
+        "title": "Лабораторная 7",
+        "description": "Разработка unit-теста процедуры в выбранном проекте",
         "preview": "img/class-diagram.png"
     }
 ]
