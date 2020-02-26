@@ -40,5 +40,11 @@
         "title": "Лабораторная 7",
         "description": "Разработка unit-теста процедуры в выбранном проекте",
         "preview": "img/class-diagram.png"
+    },
+    {
+        "id": 8,
+        "title": "Семинар 1",
+        "description": "Методология RUP, прецеденты и язык UML",
+        "preview": "img/class-diagram.png"
     }
 ]
