@@ -1,1 +1,34 @@
-
+@startuml 
+skinparam actor { 
+ BackgroundColor White 
+ ArrowColor Black 
+ BorderColor Black 
+} 
+skinparam usecase { 
+ BackgroundColor White 
+ ArrowColor Black 
+ BorderColor Black 
+} 
+left to right direction 
+actor P0 as "Человек" 
+actor M0 as "Программный модуль" 
+actor P as "Заказчик" 
+actor M as "Подсистема" 
+ 
+package APP as "Система «кейтеринг» для массовых мероприятий"{ 
+usecase A as "Запланировать мероприятие" 
+usecase B as "Подготовить мероприятие" 
+usecase C as "Провести мероприятие" 
+usecase D as "Оценить результат работы" 
+P — (A) 
+(A) — M 
+P — (B) 
+(B) — M 
+P — (C) 
+(C) — M 
+P — (D) 
+(D) — M 
+} 
+P0 <|— P 
+M —|> M0 
+@enduml
