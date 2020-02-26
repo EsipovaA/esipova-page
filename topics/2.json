@@ -1,6 +1,14 @@
 {
-    "title": "UML Class",
-    "items": [
-        
-    ]
+    {
+            "type": "image",
+            "data": "https://github.com/EsipovaA/esipova-page/blob/master/2.PNG?raw=true"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Файл",
+                    "link": "https://github.com/EsipovaA/esipova-page/blob/master/2.txt"
+                }
+                ]
 }
