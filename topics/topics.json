@@ -41,10 +41,28 @@
         "description": "Разработка unit-теста процедуры в выбранном проекте",
         "preview": "img/class-diagram.png"
     },
-    {
+     {
         "id": 8,
-        "title": "Семинары",
+        "title": "Семинар 1",
         "description": "Методология RUP, прецеденты и язык UML",
-        "preview": "img/class-diagram.png"
+        "preview": ""
+    },
+     {
+        "id": 9,
+        "title": "Семинар 2",
+        "description": "Управление разработкой ПО, методы Канбан и Скрам",
+        "preview": ""
+    },
+     {
+        "id": 10,
+        "title": "Семинар 3",
+        "description": "Прототипирование в разработке ПО",
+        "preview": ""
+    },
+     {
+        "id": 11,
+        "title": "Семинар 4",
+        "description": "Автоматизированное тестирование в разработке ПО",
+        "preview": ""
     }
 ]
